@@ -625,9 +625,9 @@ Thyrsus Enterprises
 
 ### 相关资源
 
-如果需要个人电脑、Unix 和互联网如何工作的基础知识，参阅 [Unix 和互联网工作的基本原理](http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/)。
+如果需要个人电脑、Unix 和互联网如何工作的基础知识，参阅 [Unix 和互联网工作的基本原理](http://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/)。
 
-当你发布软件或补丁时，试着按 [软件发布实践](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html) 操作。
+当你发布软件或补丁时，试着按 [软件发布实践](http://tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html) 操作。
 
 ### 鸣谢
 
